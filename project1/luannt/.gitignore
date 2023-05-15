@@ -1,0 +1,4 @@
+/env
+/script.egg-info
+__pycache__/
+cert/
